@@ -1,0 +1,18 @@
+|-------------- BIOLOGICAL PROFILE --------------|
+=================================================
+CASE ID: 789        | BIOLOGICAL CLASS: ADULT
+EST. SEX: Male      | EST. AGE: 37.5 years
+AGE METHOD: Lamendin Dental Method
+ANCESTRY: European  | METHOD: Automated (Platymeric Index)
+------------------------------------------------
+STATURE:  204.7 cm | METHOD: Trotter-Gleser Regression
+WEIGHT:   89.3 kg  | BMI:      21.3
+------------------------------------------------
+INJURY LOG:
+ [BONE]
+
+ [TISSUE]
+
+ [SUPERFICIAL]
+
+================================================

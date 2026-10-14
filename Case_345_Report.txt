@@ -1,0 +1,20 @@
+JEFFERSONIAN INSTITUTION: BIOLOGICAL PROFILE
+================================================
+CASE ID: 345        | BIOLOGICAL CLASS: ADULT
+EST. SEX: Female    | EST. AGE: 70.5 years
+ANCESTRY: Native American | METHOD: Automated (Platymeric Index)
+------------------------------------------------
+STATURE:  113.8 cm | METHOD: Trotter-Gleser Regression
+WEIGHT:   7.5 kg | BMI: 5.8
+------------------------------------------------
+INJURY LOG:
+ [BONE]
+34
+
+ [TISSUE]
+56
+
+ [SUPERFICIAL]
+89
+
+================================================

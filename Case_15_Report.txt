@@ -1,0 +1,17 @@
+JEFFERSONIAN INSTITUTION: BIOLOGICAL PROFILE
+================================================
+CASE ID: 15         | BIOLOGICAL CLASS: JUVENILE
+EST. SEX: Female    | EST. AGE: 25.5 years
+ANCESTRY: European  | METHOD: Automated (Platymeric Index)
+------------------------------------------------
+STATURE:  61.2 cm | METHOD: Juvenile Scaling
+WEIGHT:   -39.9 kg | BMI: -1.0
+------------------------------------------------
+INJURY LOG:
+ [BONE]
+
+ [TISSUE]
+
+ [SUPERFICIAL]
+
+================================================

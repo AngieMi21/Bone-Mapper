@@ -1,0 +1,14 @@
+JEFFERSONIAN INSTITUTION: BIOLOGICAL PROFILE
+================================================
+CASE ID: 1          | SEX: Female    
+EST. AGE: 41.0      | ANCESTRY: Native American
+METHODOLOGY:      Automated (Platymeric Index)
+------------------------------------------------
+METRIC:   224.6 cm | 107.1 kg | BMI: 21.2
+IMPERIAL: 88.4 in | 236.2 lb
+------------------------------------------------
+INJURY LOG:
+ BONE:        1
+ TISSUE:      1
+ SUPERFICIAL: 1
+================================================

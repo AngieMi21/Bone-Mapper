@@ -1,0 +1,18 @@
+JEFFERSONIAN INSTITUTION: BIOLOGICAL PROFILE
+================================================
+CASE ID: 567        | BIOLOGICAL CLASS: ADULT
+EST. SEX: Male      | EST. AGE: 36.3 years
+AGE METHOD: Lamendin Dental Method
+ANCESTRY: European  | METHOD: Automated (Platymeric Index)
+------------------------------------------------
+STATURE:  169.9 cm | METHOD: Trotter-Gleser Regression
+WEIGHT:   57.9 kg | BMI: 20.1
+------------------------------------------------
+INJURY LOG:
+ [BONE]
+
+ [TISSUE]
+
+ [SUPERFICIAL]
+
+================================================

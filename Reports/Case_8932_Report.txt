@@ -1,0 +1,18 @@
+|-------------- BIOLOGICAL PROFILE --------------|
+=================================================
+CASE ID: 8932       | BIOLOGICAL CLASS: JUVENILE
+EST. SEX: Indeterminate | EST. AGE: 10.4 years
+AGE METHOD: Maresh Growth Scaling
+ANCESTRY: African   | METHOD: Automated (Platymeric Index)
+------------------------------------------------
+STATURE:  54.8 cm | METHOD: Juvenile Scaling
+WEIGHT:   8.2 kg BMI:      N/A (Juvenile Class)
+------------------------------------------------
+INJURY LOG:
+ [BONE]
+
+ [TISSUE]
+
+ [SUPERFICIAL]
+
+================================================
